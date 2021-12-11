@@ -21,3 +21,5 @@ If you want a little personal touch on your Nintendo Switch every time it boots 
 6. Directly Underneath `[Atmosphere]` add the line `logopath=/bootlogo.bmp`
 7. You're all done! Just boot your switch and enjoy your custom logo as it boots up.
 
+
+![Bootlogo](bootlogo.bmp)
